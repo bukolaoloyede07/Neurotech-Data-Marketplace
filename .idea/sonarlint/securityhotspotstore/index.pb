@@ -7,3 +7,5 @@ G
 contracts/bci-data.clar,7/6/76c4f7194f7cec1f36c12bfac452826b64efdbfa
 F
 tests/bci-data.test.ts,f/a/fafc22745b46b055416f22535b149580a4355ec3
+M
+contracts/access-control.clar,6/6/669f44b87120b222b50b4b39670be7edd9bd587e
