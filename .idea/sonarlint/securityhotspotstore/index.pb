@@ -13,3 +13,5 @@ L
 tests/access-control.test.ts,1/e/1e94a77628633661eb7a04e44552fb418034370a
 U
 %contracts/neuroethics-compliance.clar,e/8/e8691b275b2047aa464e19683b7e7e5444ce9d34
+T
+$tests/neuroethics-compliance.test.ts,9/c/9c66372aee36e6861fe6664192aa81b6a6fd9990
